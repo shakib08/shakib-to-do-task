@@ -1,0 +1,35 @@
+/* TodoList.css */
+  
+.todo-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .todo-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+  }
+  
+  .todo-item h3 {
+    margin-top: 0;
+  }
+  
+  .todo-item p {
+    margin-bottom: 0;
+  }
+  
+  .todo-item button {
+    margin-left: 0.5rem;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .todo-item button:hover {
+    background-color: #d32f2f;
+  }
+  
