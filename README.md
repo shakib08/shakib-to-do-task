@@ -122,10 +122,4 @@ If you'd like to contribute to this project, please fork the repository and use 
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-You can now copy and paste this into your GitHub README file.
